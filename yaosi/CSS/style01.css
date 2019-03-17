@@ -1,0 +1,198 @@
+*{
+	padding:0;
+	margin:0;
+}
+#warp{
+			width:980px;
+			height:auto;
+			border:1px solid black;
+			border-radius:10px;
+			margin:5px auto;
+}
+
+
+header{
+			width:960px;
+			height:100px;
+			border:1px solid red;
+			border-radius:10px;
+			margin:20px auto;
+			
+}
+nav.top_menu{
+			width:960px;
+			height:50px;
+			
+			border-radius:10px;
+			margin:20px auto;
+			background-color:#999999;
+			float:center;
+
+}
+nav.top_menu ul li{		display:inline;}
+
+
+
+nav.top_menu ul li a{
+			display:inline-block;
+			padding:0 80px;
+			height:30px;
+			line-height:60px;
+			color:#FFF;
+			font-size:80px
+			text-decoration:none;
+			
+}				
+
+main{
+			width:960px;
+			height:1400px;
+			
+			border-radius:10px;
+			margin:20px auto;
+
+}
+article{
+			width:600px;
+			height:1460px;
+			
+			border-radius:10px;
+			margin:10px 20px;
+			float:left;
+}
+#search_input{
+    		position: relative;
+   
+			 width: 350px;
+
+    			height:30px;
+			border: 2;
+    
+			font-size: inherit;
+    
+			box-sizing: border-box;
+    
+			background-color: white;
+}
+#text_input{
+    		position: relative;
+   
+			 width: 180px;
+
+    			height:25px;
+			border: 2;
+    
+			font-size: inherit;
+    
+			box-sizing: border-box;
+    
+			background-color: white;
+}
+#anniu_search{		width: 40px;
+
+    			height:30px;
+			border: 2;
+ 
+}
+#anniu_input{		width: 40px;
+
+    			height:30px;
+			border: 2;
+ 
+}
+#img01{
+         float:left;
+
+}
+#img02{
+         float:right;
+
+}
+
+section00{
+			width:560px;
+			height:50px;
+			
+			border-radius:10px;
+			margin:10px 20px;
+			float:left;
+}
+section01{
+			width:560px;
+			height:200px;
+			
+			border-radius:10px;
+			margin:10px 20px;
+			float:left;
+}
+section02{
+			width:250px;
+			height:300px;
+			
+			border-radius:10px;
+			margin:10px 20px;
+			float:left;
+}
+section03{
+			width:265px;
+			height:300px;			
+			border-radius:10px;
+
+			margin:10px 20px;
+			float:left;
+}
+
+
+
+#bgroundcolor01{
+			background-color:#CCFF99;
+}
+
+#bgroundcolor02{
+			background-color:#D0D0D0;
+}
+#bgroundcolor03{
+			background-color:#99CC99;
+}
+#bgroundcolor04{
+			background-color:#CCCC66;
+}
+#bgimage{
+			background-image:url(image/09.jpg);
+			width:500px;
+			height:200px;			
+}
+section04{
+			width:560px;
+			height:400px;
+			border-radius:10px;
+
+			margin:10px 20px;
+			float:left;
+}
+
+aside01{
+			width:300px;
+			height:210px;
+			border-radius:10px;
+			margin:10px 0px;
+			float:left;
+			
+}
+aside02{
+			width:300px;
+			height:1000px;
+			border-radius:10px;
+
+			margin:10px 0px;
+			float:left;
+			
+}
+footer{
+			width:960px;
+			height:100px;
+			border-radius:10px;
+			clear:both;
+			margin:10px auto;
+			float:center;
+}
